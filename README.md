@@ -25,4 +25,22 @@ no disponible
 
 
 
+<h2 align="center">👥 Equipo del Proyecto</h2>
 
+<p align="center">
+  <a href="https://github.com/El-brayan502">
+    <img src="https://avatars.githubusercontent.com/El-brayan502" width="120" style="border-radius: 50%;" />
+    <br />
+    <strong>👑 Propietario</strong><br />
+    El-brayan502
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thecarlos19">
+    <img src="https://avatars.githubusercontent.com/thecarlos19" width="120" style="border-radius: 50%;" />
+    <br />
+    <strong>💡 Colaborador</strong><br />
+    thecarlos19
+  </a>
+</p>
